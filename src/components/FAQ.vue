@@ -80,12 +80,13 @@ const FAQList: FAQProps[] = [
         href="#"
         class="text-muted-foreground"
       >
-        <a
+
+      </a>
+      <a
           href="#"
           class="underline"
           >Contact us</a
         >
-      </a>
     </h3>
   </section>
 </template>
